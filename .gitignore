@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+/anima
+
+/data
+
 # production
 /build
 
